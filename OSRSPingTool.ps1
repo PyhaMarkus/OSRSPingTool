@@ -49,7 +49,7 @@ function PingInfo {
 $Form = New-Object System.Windows.Forms.Form    
 $Form.Text = "Oldschool Runescape Ping"
 $Form.Size = New-Object System.Drawing.Size(535,420) 
-$Form.Icon = [System.Drawing.Icon]::ExtractAssociatedIcon('C:\Users\Markus\Desktop\favicon.ico') #Logo for form
+$Form.Icon = [System.Drawing.Icon]::ExtractAssociatedIcon('C:\Users\Markus\Desktop\OSRSPing\favicon.ico') #Logo for form
 #$Form.FormBorderStyle = [System.Windows.Forms.FormBorderStyle]::FixedToolWindow # <- Fixed windows size
 
 
